@@ -1,13 +1,13 @@
 # Tarea Semana 1
 Glorsario
 ## **1.Phishing**: 
-Es una tecnica de ingenieria social y ciberdelito que busca engañar a ususarios para robar información confidencial como credenciales, datos bancarios, números de tarjeta, etc. Suplantando la entidad de entidades de confianza (bancos, empresas, conocidos) mediante correos electronicos, SMS, o sitios web falsos.
+Es una tecnica de ingenieria social y ciberdelito que busca engañar a usuarios para robar información confidencial como credenciales, datos bancarios, números de tarjeta, etc. Suplantando la entidad de entidades de confianza (bancos, empresas, conocidos) mediante correos electronicos, SMS, o sitios web falsos.
 ## **2.Ley de Moore**:
 Es una observación formulado por Gordon Moore en 1965 que establece que el número de transistores de un microchip se duplica aproximadamente cada dos años, aumentando la potencia de procesamiento y reduciendo costos. 
 ## **3.Hardware**:
 Se refiere a todos los componentes físicos, tangibles y materiales que constituyen un sistema informatico o computadora, incluyendo partes eléctricas, eléctronicas y electromecánicas. Abarca dispositivos internos como el procesador (CPU), memoria RAM, placa base y almacenamiento, así como periféricos de entrada/salida.
 ## **4.Software**:
-Es el conjunto de componentes lógicos, programas, instrucciones y reglas informáticas que permiten que dispositivos físicos (hardware) realizar tareas específicas. Es la parte intagible de los equipos, fundamental para su funcionamiento y la interacción del usuario.
+Es el conjunto de componentes lógicos, programas, instrucciones y reglas informáticas que permiten que dispositivos físicos (hardware) realizar tareas específicas. Es la parte intangible de los equipos, fundamental para su funcionamiento y la interacción del usuario.
 ## **5.UEFI (Unified Extensible Firmware Interface)**:
 Es un estandar de firmware moderno que remplaza a la BIOS tradicional de los ordenadores, actuando como la primera capa de software que se ejucuta al arrancar el equipo. Ofrece ventajas clave como tiempos de inicio más rápidos, seguridad mejorada como secure boot, soporte para discos duros de mas de 2.2 TB.
 ## **6.APIs (Application Programming Interfaces)**:
